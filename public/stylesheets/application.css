@@ -1,0 +1,11 @@
+#results {}
+
+input {
+  width: 250px;
+  margin-bottom: 20px;
+}
+
+#main-container {
+  width: 800px;
+  margin: auto;
+}
